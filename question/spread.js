@@ -20,3 +20,5 @@ function addNum(a,b,c){
 const nums=[1,2,3]
 console.log(addNum(...nums));
 
+const array=[1,23,45,468]
+console.log(array.slice(2,69));

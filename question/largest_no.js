@@ -16,4 +16,8 @@ function largestNumber(num){
 }
 console.log(largestNum([1,35,78,9]));
 
-//first element
+//remove first element
+
+let arr=[5,6,7]
+arr=arr.slice(1)
+console.log(arr);
